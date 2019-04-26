@@ -29,6 +29,9 @@
 [Python Challenge][18]
 [Python Exercises, Practice, Solution][19]
 [Solo Learn][20]  
+https://docs.python-guide.org/scenarios/scrape/
+
+
 
 [1]:	https://www.py4e.com/html3/ "Python For Everybody Website"
 [2]:	http://do1.dr-chuck.com/pythonlearn/EN_us/pythonlearn.pdf "Python for Everybody: Exploring Data in Python 3 - PDF"
